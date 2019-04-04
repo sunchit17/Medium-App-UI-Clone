@@ -2,6 +2,12 @@
 
 Medium App UI Clone in Flutter
 
+![Screenshot](Screenshot_1554410756.png)
+
+![Screenshot](Screenshot_1554410760.png)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
